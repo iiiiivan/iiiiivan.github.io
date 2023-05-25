@@ -54,3 +54,8 @@ Lunar Lander
  * Don't touch any rocks and land on the platform
 
 *[click](https://iiiiivan.github.io/lunar_lander_webgl_01/index.html)
+
+Resources used
+=====
+ * [Unity](https://unity.com/cn)
+ * [C#](https://visualstudio.microsoft.com/zh-hant/downloads/)
