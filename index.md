@@ -63,7 +63,7 @@ Resources used
 Move Game
 ==========
 
-[(https://iiiiivan.github.io/move Webgl/index.html)](http://localhost:60418/)
+(https://iiiiivan.github.io/move_webgl0/index.html)
 
 Tower
 ==========
