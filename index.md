@@ -63,7 +63,7 @@ Resources used
 Move Game
 ==========
 
-[click](https://iiiiivan.github.io/move Webgl/index.html)
+(https://iiiiivan.github.io/move Webgl/index.html)
 
 Tower
 ==========
@@ -73,4 +73,4 @@ Tower
 Dodge
 ==========
 
-[(https://iiiiivan.github.io/dodge_webgl2/index.html)]
+(https://iiiiivan.github.io/dodge_webgl2/index.html)
