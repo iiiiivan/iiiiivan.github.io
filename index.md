@@ -63,17 +63,17 @@ Resources used
 Move Game
 ==========
 
-[(https://iiiiivan.github.io/move_webgl0/index.html)](http://localhost:60500/)
+[play](https://iiiiivan.github.io/move_webgl0/index.html)
 
 Tower
 ==========
 
-(https://iiiiivan.github.io/Tower_webgl1/index.html)
+[play](https://iiiiivan.github.io/Tower_webgl1/index.html)
 
 Dodge
 ==========
 
-(https://iiiiivan.github.io/dodge_webgl2/index.html)
+[play](https://iiiiivan.github.io/dodge_webgl2/index.html)
 
 Final
 ==========
