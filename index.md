@@ -46,8 +46,9 @@ for enemy in w.get_sprites_with_tag('ldtk_Enemy'):
     enemy=w.create_sprite(Enemy, position=enemy.position)
     enemy.right_target=Point(enemy.x+9+18*8, 0)
     enemy.left_target=enemy.position
-~~~  
-  
+~~~
+
+~~~
 Lunar Lander
 =============    
  * Try to touch the star and get some fuel
@@ -79,3 +80,4 @@ Final
 ==========
 
 [play](https://iiiiivan.github.io/final_webgl3/index.html)
+~~~
