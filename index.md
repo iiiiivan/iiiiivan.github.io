@@ -48,7 +48,7 @@ for enemy in w.get_sprites_with_tag('ldtk_Enemy'):
     enemy.left_target=enemy.position
 ~~~
 
-~~~
+
 Lunar Lander
 =============    
  * Try to touch the star and get some fuel
